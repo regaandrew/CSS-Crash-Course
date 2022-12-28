@@ -1,6 +1,7 @@
-div{
-    width: 100%;
-    max-width: 200px;
-    height: 80vh;
-    border: 1px solid black;
+.red{
+    color: red;
+}
+
+.blue{
+    color: blue;
 }
